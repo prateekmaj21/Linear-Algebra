@@ -1,0 +1,15 @@
+---
+title: "R Linear Algebra"
+---
+```{r}
+# Creating a vector
+v <- c(1, 2, 3, 8 , 9 )
+print(v)
+```
+
+```{r}
+# Creating a matrix
+m <- matrix(c(1, 2, 3, 4, 5, 6), nrow=2, ncol=3)
+print(m)
+```
+
