@@ -1,2 +1,4 @@
 # Linear-Algebra
-Linear Algebra code
+Linear Algebra Code
+
+1. Numpy Implementation
